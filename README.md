@@ -1,0 +1,1 @@
+This system detects motion using a PIR sensor and notifies users via a Blynk app. When motion is detected, it triggers a LED to blink for 5 seconds and sends an alert to Blynk. The alarm can be toggled on/off remotely using a Blynk button. The system is connected to Wi-Fi and can be controlled via the Blynk app, ideal for smart home security.
